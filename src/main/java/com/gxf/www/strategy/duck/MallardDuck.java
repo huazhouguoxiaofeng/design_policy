@@ -1,8 +1,8 @@
-package com.gxf.www.design_policy.strategy.duck;
+package com.gxf.www.strategy.duck;
 
 
-import com.gxf.www.design_policy.strategy.behavior.fly.impl.FlyWithWings;
-import com.gxf.www.design_policy.strategy.behavior.quack.impl.Quack;
+import com.gxf.www.strategy.behavior.fly.impl.FlyWithWings;
+import com.gxf.www.strategy.behavior.quack.impl.Quack;
 
 /**
  * 绿头鸭:

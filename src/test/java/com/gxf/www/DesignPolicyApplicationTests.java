@@ -1,4 +1,4 @@
-package com.gxf.www.design_policy;
+package com.gxf.www;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

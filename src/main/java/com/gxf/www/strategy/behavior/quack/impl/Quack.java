@@ -1,7 +1,7 @@
-package com.gxf.www.design_policy.strategy.behavior.quack.impl;
+package com.gxf.www.strategy.behavior.quack.impl;
 
 
-import com.gxf.www.design_policy.strategy.behavior.quack.QuackBehavior;
+import com.gxf.www.strategy.behavior.quack.QuackBehavior;
 
 /**
  * 呱呱叫

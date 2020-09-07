@@ -1,7 +1,7 @@
-package com.gxf.www.design_policy.strategy.behavior.fly.impl;
+package com.gxf.www.strategy.behavior.fly.impl;
 
 
-import com.gxf.www.design_policy.strategy.behavior.fly.FlyBehavior;
+import com.gxf.www.strategy.behavior.fly.FlyBehavior;
 
 public class FlyRocketPowered implements FlyBehavior {
     @Override

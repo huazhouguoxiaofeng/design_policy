@@ -1,7 +1,7 @@
-package com.gxf.www.design_policy.strategy.duck;
+package com.gxf.www.strategy.duck;
 
-import com.gxf.www.design_policy.strategy.behavior.fly.FlyBehavior;
-import com.gxf.www.design_policy.strategy.behavior.quack.QuackBehavior;
+import com.gxf.www.strategy.behavior.fly.FlyBehavior;
+import com.gxf.www.strategy.behavior.quack.QuackBehavior;
 import lombok.Data;
 
 @Data

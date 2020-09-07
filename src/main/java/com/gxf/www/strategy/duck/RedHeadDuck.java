@@ -1,4 +1,4 @@
-package com.gxf.www.design_policy.strategy.duck;
+package com.gxf.www.strategy.duck;
 
 public class RedHeadDuck extends Duck {
 
