@@ -1,6 +1,8 @@
-package com.gxf.www.observer;
+package com.gxf.www.observer.outer;
 
 /**
+ * 主题接口：
+ * 具体主题来实现这个接口
  * 对主题来说，就是注册观察者、移除观察者、通知观察者嘛
  */
 public interface Subject {
@@ -10,6 +12,7 @@ public interface Subject {
      * @param o
      */
     void registerObserver(Observer o);
+
     void removeObserver(Observer o);
 
     /**

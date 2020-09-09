@@ -1,4 +1,4 @@
-package com.gxf.www.observer;
+package com.gxf.www.observer.outer;
 
 /**
  * 布板就是更新

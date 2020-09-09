@@ -1,9 +1,12 @@
-package com.gxf.www.observer.display;
+package com.gxf.www.observer.outer.display;
 
-import com.gxf.www.observer.DisplayElement;
-import com.gxf.www.observer.Observer;
-import com.gxf.www.observer.Subject;
+import com.gxf.www.observer.outer.DisplayElement;
+import com.gxf.www.observer.outer.Observer;
+import com.gxf.www.observer.outer.Subject;
 
+/**
+ * 此布告板显示当前值
+ */
 public class CurrentConditionDisplay implements Observer, DisplayElement {
 
     private float temperature;

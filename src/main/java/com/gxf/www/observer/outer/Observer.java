@@ -1,6 +1,8 @@
-package com.gxf.www.observer;
+package com.gxf.www.observer.outer;
 
 /**
+ * 观察者接口：
+ * 具体观察者来实现这个接口
  * 对观察者来说，就是更新信息嘛
  */
 public interface Observer {
