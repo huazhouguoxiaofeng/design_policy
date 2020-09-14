@@ -10,6 +10,9 @@ import com.gxf.www.observer.outer.display.StatisticsDisplay;
  * 一：我们的 WeatherData 类
  * 多：我们的布告板
  * 观测值改变时，必须通知所有的布告板，好让他们各自做出处理
+ *
+ * 自定义观察者模式
+ *
  */
 public class ObserverOuterMain {
     public static void main(String[] args) {

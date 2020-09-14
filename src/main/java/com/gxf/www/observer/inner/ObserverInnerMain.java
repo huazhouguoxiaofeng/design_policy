@@ -4,6 +4,9 @@ import com.gxf.www.observer.inner.display.CurrentConditionDisplay;
 import com.gxf.www.observer.inner.display.ForecastDisplay;
 import com.gxf.www.observer.inner.display.StatisticsDisplay;
 
+/**
+ * java内嵌观察者模式
+ */
 public class ObserverInnerMain {
     public static void main(String[] args) {
         WeatherData weatherData = new WeatherData();
